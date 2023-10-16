@@ -8,5 +8,5 @@ Today we **learned** more about
 
 ### Next level!
 
-> "My name is rocjet. Rocket raccoon!"
+> "My name is rocket. Rocket raccoon!"
 - Rocket Raccoon
